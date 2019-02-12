@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'io2mwtul0lqcydk%vz-3bl%t!3q@gibvp3ve3gn&x$^=c#h!*^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com', '10.42.22.43', "10.42.22.114", 'jcgut.pythonanywhere.com']
 
